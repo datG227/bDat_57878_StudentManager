@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿namespace StudentManagement
+=======
+﻿namespace StudentManager_project
+>>>>>>> b402c15 (Intial comit: StudentManager project)
 {
     partial class Form1
     {
@@ -28,6 +32,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.lblId = new System.Windows.Forms.Label();
             this.txtId = new System.Windows.Forms.TextBox();
             this.lblName = new System.Windows.Forms.Label();
@@ -198,3 +203,15 @@
         private System.Windows.Forms.DataGridView dgvStudents;
     }
 }
+=======
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Form1";
+        }
+
+        #endregion
+    }
+}
+
+>>>>>>> b402c15 (Intial comit: StudentManager project)

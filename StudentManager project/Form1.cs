@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.Linq;
 using System.Windows.Forms;
 using System.Xml.Linq;
@@ -10,10 +11,25 @@ namespace StudentManagement
     {
         List<Student> students = new List<Student>();
 
+=======
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace StudentManager_project
+{
+    public partial class Form1 : Form
+    {
+>>>>>>> b402c15 (Intial comit: StudentManager project)
         public Form1()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void LoadGrid()
         {
@@ -79,5 +95,7 @@ namespace StudentManagement
                 txtAge.Text = dgvStudents.Rows[e.RowIndex].Cells[2].Value.ToString();
             }
         }
+=======
+>>>>>>> b402c15 (Intial comit: StudentManager project)
     }
 }
