@@ -23,6 +23,7 @@ Visual Studio Comunity 2019–>2026
 2️⃣ Cách chạy project
 git clone https://github.com/datG227/bDat_57878_StudentManager.git
 cd bDat_57878_StudentManager
+
 Mở file .sln bằng Visual Studio
 Nhấn Start (F5) để chạy ứng dụng
 
