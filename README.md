@@ -40,7 +40,7 @@ Nhấn Start (F5) để chạy ứng dụng
 🔗 Link Pull Request (PR)
 
 👉 PR từ nhánh feature/intro → main:
-https://github.com/datG227/bDat_57878_StudentManager/pulls
+https://github.com/datG227/bDat_57878_StudentManager/pull/1
 
 
 🖼️ Ảnh UI ứng dụng
