@@ -46,7 +46,7 @@ https://github.com/datG227/bDat_57878_StudentManager/pulls
 🖼️ Ảnh UI ứng dụng
 
 
-👉 <img width="985" height="674" alt="image" src="https://github.com/user-attachments/assets/24e1df2f-cddd-41ea-b487-fdf8ef3c7af1" />
+<img width="974" height="665" alt="image" src="https://github.com/user-attachments/assets/f3310ec3-73ff-4880-a78d-cc9d520c7a7d" />
 
 
 📜 Log
