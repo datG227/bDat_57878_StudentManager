@@ -52,7 +52,7 @@ https://github.com/datG227/bDat_57878_StudentManager/pulls
 
 Ảnh:
 
-![Git Log](<img width="901" height="394" alt="image" src="https://github.com/user-attachments/assets/7dc88dea-e080-44b6-9338-68fbc1b9c294" />)
+![Git Log]<img width="901" height="394" alt="image" src="https://github.com/user-attachments/assets/7dc88dea-e080-44b6-9338-68fbc1b9c294" />
 
 
 🏷️ Tag v1.0
